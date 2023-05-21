@@ -1,0 +1,10 @@
+/*Обнуление*/
+  p {
+  width: 51%;
+  background-color: #ccc;
+  padding: 10px;
+  position: relative;
+  overflow: hidden;
+  font-size: 16px;
+  text-align:justify;
+}
